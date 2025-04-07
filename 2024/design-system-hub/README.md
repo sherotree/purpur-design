@@ -1,7 +1,12 @@
 # Design System Hub
 
-> Collects UX Design Systems from all over the world
-> Here you can easily find the relevant information you need, including the official website of the design system and its component library files in Figma.
+## Tagline
+
+Gather UX Design Systems from around the globe in minutes
+
+## Description
+
+Here you can easily find the relevant information you need, including the official website of the design system and its component library files in Figma.
 
 ## Resource link
 

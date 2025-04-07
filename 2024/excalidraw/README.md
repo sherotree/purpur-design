@@ -1,6 +1,10 @@
 # Excalidraw
 
-> Create beautiful diagrams with Excalidraw
+## Tagline
+
+Virtual whiteboard for sketching hand-drawn like diagrams
+
+## Description
 
 Excalidraw is a whiteboard tool that allows you to create beautiful diagrams with ease.
 

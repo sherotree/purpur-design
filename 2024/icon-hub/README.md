@@ -1,6 +1,12 @@
 # Icon Hub
 
-> Collects popular open source icons from all over the world
+## Tagline
+
+Collects popular open source icons from all over the world
+
+## Description
+
+Icon Hub is a collection of icons that you can use in your projects.
 
 ## Features
 
