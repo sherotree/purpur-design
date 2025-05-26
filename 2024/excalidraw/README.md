@@ -19,10 +19,6 @@ Excalidraw is a whiteboard tool that allows you to create beautiful diagrams wit
 - Undo / Redo.
 - Zoom and panning support.
 
-## Support/Community
-
-Need help? Join us on our [Discord community](https://discord.com/invite/hGW94f7xCv) and discuss with one of our team members.
-
 ## Credits
 
 - [Excalidraw GitHub](https://github.com/excalidraw/excalidraw)

@@ -16,10 +16,6 @@ Icon Hub is a collection of icons that you can use in your projects.
 - Copy the icon as an SVG
 - Download the icon as a PNG
 
-## Support/Community
-
-Need help? Join us on our [Discord community](https://discord.com/invite/hGW94f7xCv) and discuss with one of our team members.
-
 ## Credits
 
 - [Iconify](https://iconify.design/)

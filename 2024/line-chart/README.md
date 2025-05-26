@@ -12,10 +12,6 @@
 
 - 10 line chart templates.
 
-## 🍻 Support/Community
-
-Need help? Join us on our [Discord community](https://discord.com/invite/hGW94f7xCv) and discuss with one of our team members.
-
 ## tags
 
 chart, line chart, line, generator, graph,diagram, builder, line graph

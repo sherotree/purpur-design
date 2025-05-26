@@ -21,7 +21,3 @@ Or you can use the plugin in the following way:
 2. Input keyword to search for the app logo
 3. Drag and drop the logo to the Figma canvas
 4. The plugin will download the logo to your Figma file
-
-## Support/Community
-
-Need help? Join us on our [Discord community](https://discord.com/invite/hGW94f7xCv) and discuss with one of our team members.
