@@ -1,0 +1,1 @@
+- https://www.producthunt.com/products/logo-hunter-for-apple-store?launch=logo-hunter-for-apple-store
