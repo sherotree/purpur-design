@@ -2,3 +2,5 @@
 - https://www.tinylaun.ch/
 - https://forum.figma.com/
 - https://solo.xin/user/1417
+- https://peerlist.io/neotang/posts
+- https://startupfa.me/
