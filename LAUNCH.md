@@ -4,3 +4,5 @@
 - https://solo.xin/user/1417
 - https://peerlist.io/neotang/posts
 - https://startupfa.me/
+- https://open-launch.com/
+- https://bsky.app/

@@ -1,23 +1,16 @@
-# Logo Hunter for Apple Store
+# Logo Hunter
 
-> Find 2 million+ logos from the App Store and place them on your Figma file
+> Find 2 million+ App icons from the App Store
 
-## Features
+## Description
 
-- Search for logos
-- Drag and drop the logo to the Figma canvas
-- The plugin will download the logo to your Figma file
+Logo Hunter is a free resource offering instant access to over 2 million App Store icons. Easily search, discover, and download high-quality iOS app icons for design inspiration, competitive analysis, or personal projects—all without cost or restrictions.
 
-## How to use
+Key Features:
+🔍 Massive Database: Browse 2+ million real iOS app icons.
 
-1. Run the plugin.
-2. Input keyword to search for the app logo
-3. Select Frame to place the logo
-4. Click the logo to place it on the Frame
+⬇️ Free Downloads: Export icons directly for reference or use.
 
-Or you can use the plugin in the following way:
+🚀 Quick Search: Find icons by app name, category, or keywords.
 
-1. Run the plugin
-2. Input keyword to search for the app logo
-3. Drag and drop the logo to the Figma canvas
-4. The plugin will download the logo to your Figma file
+Ideal for designers, developers, and marketers seeking authentic App Store assets.
