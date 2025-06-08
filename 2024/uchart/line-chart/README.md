@@ -2,7 +2,7 @@
 
 # 🚀 Quickly generate a line chart.
 
-## 🍱 Features
+## Features
 
 - Generate a line chart with multiple lines.
 
