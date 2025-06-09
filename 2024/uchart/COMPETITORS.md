@@ -4,6 +4,8 @@ https://www.figma.com/community/plugin/960109239648737173/chartline
 
 https://www.figma.com/community/plugin/1332447165218422604/bar-charts
 
+https://www.desmos.com/calculator/qtzamwcdrk?lang=zh-CN
+
 Figma Charts, Chart Maker, Fast Chart
 
 Charts, Map Chart, Highcharts Core, Chart, Radar Chart
