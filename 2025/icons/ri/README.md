@@ -1,8 +1,8 @@
 # Remix Icons | Free and Open-Source SVG Icons
 
-## Tagline
+## Tagline(100 characters)
 
-Free, high quality, open source icon library with over 3,000 SVG icons for web and app design, featuring a neutral style and perfect pixel design.
+3,000+ pixel-perfect SVG icons with neutral style, free for both personal and commercial use.
 
 ## Description
 
